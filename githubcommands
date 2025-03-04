@@ -1,0 +1,13 @@
+commands of github:
+git init
+git status
+git add .
+git commit -m "First Commit"
+git config --global user.name "[shashi-57]"
+git config --global user.email "[245122748057@mvsrec.edu.in]"
+git commit -m "FirstCommit"
+git remote add origin "URL"
+git push origin master
+id
+password
+
